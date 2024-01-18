@@ -12,6 +12,8 @@
 - What are customers' issues, categorized according to demographic groups (geographic location, revenue history, and so on)?
 - What products are the customers buying and at what rate?
 
-** 1.2 Sales performance** 
+**1.2 Sales performance** 
 
 When analyzing the insights of Sales Performance, the manager will comprehend the trend of the performance of each region through time series analysis, and recognize the region as either the potential one or not. Then, they will be supported to make good decisions for business strategies.
+
+### 2. Dataset
