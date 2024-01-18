@@ -2,9 +2,10 @@
 
 ## I. Introduction 
 
-## 1. Business Question
+### 1. Business Question
 
- **1.1 Customer segmentation and profiling:** The sales team needs to be able to extract valuable information from raw data available in the databases to answer questions such as the following:
+ **1.1 Customer segmentation and profiling** 
+ The sales team needs to be able to extract valuable information from raw data available in the databases to answer questions such as the following:
 - What are the early warning signs of problems?
 - Who are the best customers across all product lines? With whom should the sales team focus its efforts for building long-term relationships?
 - What are customers' issues, categorized according to demographic groups (geographic location, revenue history, and so on)?
