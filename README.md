@@ -37,3 +37,7 @@ Enter the project name "adventurework2019"
 
 ## II. Apply design thinking mindset
 
+
+## IV. Insights
+
+ 
