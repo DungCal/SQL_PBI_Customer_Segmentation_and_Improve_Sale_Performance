@@ -39,5 +39,5 @@ Enter the project name "adventurework2019"
 
 
 ## IV. Insights
-
- 
+#### 1. Customer Segmentation - Customer Count
+- The Champions group has the highest revenue, at 73.8 million, accounting for 67% of the total revenue and 34% of total revenue. Gradually, the company experienced the highest purchasing growth ò champion customer in the second quarter every year. For each subcategory, Champion customers are consistently the highest spenders.
