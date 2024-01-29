@@ -36,7 +36,24 @@ In the navigation panel, select "Add Data" and then "Star a project by name".
 Enter the project name "adventurework2019"
 
 ## II. Apply design thinking mindset
+**1. Empathize**
+![image](https://i.imgur.com/yE5rLan.png)
 
+**2. Define point of view**
+![image](https://i.imgur.com/deLNBkv.png)
+
+**3. Ideate**
+![image](https://i.imgur.com/wH0TO4o.png)
+
+**4&5. Prototype and review**
+![image](https://i.imgur.com/U3seAdm.png)
+
+## III. Main Process
+
+#### 1. Extract data with Google Bigquery
+
+**Output total revenue of each subcategory and category product by quarter/year**
+![image](https://i.imgur.com/2t115d8.png)
 
 
 ## IV. Insights
