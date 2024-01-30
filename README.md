@@ -55,6 +55,21 @@ Enter the project name "adventurework2019"
 **Output total revenue of each subcategory and category product by quarter/year**
 ![image](https://i.imgur.com/2t115d8.png)
 
+#### 2. Connect data to PBI and modelling
+- Connect queries above and available tables of dataset to PBI
+- Modelling
+
+![image](https://i.imgur.com/PynTyos.png)
+
+#### 3. Build Dashboard
+- Using DAX to create measures and calculated columns
+- Build 2 report pages
+
+![image](https://i.imgur.com/Rvy56q5.png)
+
+![image](https://i.imgur.com/5UHdsvc.png)
+
+![image](https://i.imgur.com/Y0cxdf9.png)
 
 ## IV. Insights
 #### 1. Customer Segmentation - Customer Count
@@ -70,7 +85,7 @@ Enter the project name "adventurework2019"
 - Regions with fewer customers, such as the Northeast, Southeast US, and South America, will have a high percentage of Champion customers (approximately 45% to 55% of customers).
 - In both the Canadian and Australian markets, there are two major customer segments: Prospective Customers and Loyal Customers. In the Canadian market, Prospective Customers constitute a higher percentage, accounting for 44.5% of the total customer base (including PL, P, and New). Conversely, in the Australian market, the percentage of Loyal Customers is higher, making up 49% of the total customer base (including L, AR, and Champions).
 
-#### 3. 
+#### 3. Sales Trend by Regions
 - The company's bicycle production figures consistently demonstrate promise each quarter, with most quarters showing positive growth. However, there is a decline in the fourth quarter. Regarding the company's profits, the quarter experiences negative growth, while the remaining quarters all exhibit positive growth.
 - The company's bicycle production figures consistently indicate promise across each quarter, with most quarters experiencing positive growth. However, there is a decline in the fourth quarter. Concerning the company's profits, the fourth quarter shows negative growth, while the remaining quarters all exhibit positive growth. Particularly, the third quarter demonstrates robust growth in both revenue and profit, with a 423.57% increase and $241.445 million in 2011 and a 16.22% increase and $484.05 million in 2013.
 - The regions with consecutive revenue and profit growth over the years are Australia, France, Germany, and the UK.
@@ -82,4 +97,6 @@ Enter the project name "adventurework2019"
 - In France, the mountain bikes category shows continuous revenue growth across quarters. Road bikes used to account for the majority of bicycle revenue (>63%) in previous quarters. However, since the introduction of touring bikes, their market share has decreased to 30%. Subsequently, touring bikes have become the largest market share holder, representing approximately 40% of the total revenue.
 - For bicycles in Germany, road bikes experience a decline in revenue each quarter, making way for mountain and touring bikes. Mountain bikes exhibit impressive revenue and profit growth, consistently growing positively for six consecutive quarters. In contrast, touring bikes show a slight decrease in revenue in Q4 2013 (-10.84%), with a substantial decline in profit (-736.28%).
 - The UK market experiences a decline in sales at the beginning and end of the year, while strong growth is observed in quarters 2 and 3. Particularly, touring bikes emerge as a highly promising product category with consistently increasing revenue. However, the profit for this product category sees a significant decrease.
-- 
+
+## V. Recommendations
+
